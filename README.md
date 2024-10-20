@@ -39,8 +39,8 @@ The data was visualized in Python. Key visualizations include:
 
 3. **Recovery vs Death Rates**: A comparative chart of recovery and death rates over time.
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/e2a26973-f414-41dd-8e8b-05f8a233bc8f" width="440" style="display:inline-block; margin: 0 10px;">
-   <img src="https://github.com/user-attachments/assets/357757a8-f9a3-464a-9024-fa80d831bdc1" width="440" style="display:inline-block; margin: 0 10px;">
+   <img src="https://github.com/user-attachments/assets/e2a26973-f414-41dd-8e8b-05f8a233bc8f" width="400" style="display:inline-block; margin: 0 10px;">
+   <img src="https://github.com/user-attachments/assets/357757a8-f9a3-464a-9024-fa80d831bdc1" width="400" style="display:inline-block; margin: 0 10px;">
 </div>
 
 
