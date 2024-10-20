@@ -24,8 +24,23 @@ This project analyzes the COVID-19 data obtained from WHO, using SQL for data cl
 
 ### Visualizations
 The data was visualized in Python. Key visualizations include:
-- Case rates over time
-- Comparison between affected regions
-- Recovery and death rates
+1. **Daily Case Trends**: A line plot showing the daily increase in COVID-19 cases.
+   
+   <p align="center">
+      <img src="https://github.com/user-attachments/assets/15ce88c1-db44-4593-bd46-c2ef09685c53" width="190">
+   </p>
+
+2. **Region-Wise Cases**: A bar chart comparing total cases across different regions.
+   
+   <p align="center">
+      <img src="https://github.com/user-attachments/assets/e852bc40-db61-456e-b5aa-affcb1e93eee" width="190">
+   </p>
+
+3. **Recovery vs Death Rates**: A comparative chart of recovery and death rates over time.
+   
+   <p align="center">
+      <img src="https://github.com/user-attachments/assets/357757a8-f9a3-464a-9024-fa80d831bdc1" width="190">
+   </p>
+
 
 
